@@ -1,0 +1,6 @@
+framework module Pods_BulletinBoardExample {
+  umbrella header "Pods-BulletinBoardExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
